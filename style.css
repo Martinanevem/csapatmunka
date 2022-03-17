@@ -116,3 +116,30 @@ img{
     position: fixed;
     top: 20%;
 }
+.leggyakoribbszamok{
+  font-size: 100px;
+  margin-left: 400px;
+  position: fixed;
+  top: 5%;
+}
+.golyoszamok{
+  font-size: 100px;
+  margin-left: 400px;
+  position: fixed;
+  top: 20%;
+  content:"#";
+}
+.golyoszamok > li {
+  counter-increment: customlistcounter;
+}
+
+.golyoszamok li:before {
+  content: "#" counter(customlistcounter);
+  font-weight: bold;
+  float: left;
+  width: 3em;
+}
+
+ol.custom:first-child {
+  counter-reset: customlistcounter;
+}
