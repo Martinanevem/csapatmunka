@@ -1,4 +1,3 @@
-/*SOCIAL MEDIAT NE!!!!!! TÖRÖLD KI köszi c:*/
   *{
     margin: 0;
     padding: 0;
@@ -57,7 +56,7 @@
     color: #fff;
   }
    
-  .wrapper .sidebar .social_media{
+  .wrapper .sidebar .nem{
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -65,7 +64,7 @@
     display: flex;
   }
   
-  .wrapper .sidebar .social_media a{
+  .wrapper .sidebar .nem a{
     display: block;
     width: 40px;
     background: #4e4e4e;
