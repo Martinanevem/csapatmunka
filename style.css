@@ -19,7 +19,7 @@
   }
   
   .wrapper .sidebar{
-    width: 400px;
+    width: 500px;
     height: 100%;
     background: #4e4e4e;
     padding: 30px 0px;
@@ -145,7 +145,7 @@ ol.custom:first-child {
   counter-reset: customlistcounter;
 }
 .golyok{
-  margin-left: 500px;
+  margin-left: 450px;
   position: fixed;
   top: 30%;
   display: flex;
@@ -159,7 +159,7 @@ ol.custom:first-child {
   content:"#";
 }
 .golyok2{
-  margin-left: 500px;
+  margin-left: 450px;
   position: fixed;
   top: 75%;
   display: flex;
