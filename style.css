@@ -144,3 +144,10 @@ img{
 ol.custom:first-child {
   counter-reset: customlistcounter;
 }
+.golyok{
+  margin-left: 450px;
+  position: fixed;
+  top: 30%;
+  display: flex;
+  justify-content:center;
+}
