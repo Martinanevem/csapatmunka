@@ -107,25 +107,25 @@ img{
 }
 .sorsolas{
     font-size: 100px;
-    margin-left: 500px; 
+    margin-left: 600px; 
     position: fixed;
     top: 5%;
 }
 .sorsolasszoveg{
     font-size: 50px;
-    margin-left: 500px;
+    margin-left: 550px;
     position: fixed;
     top: 20%;
 }
 .leggyakoribbszamok{
   font-size: 100px;
-  margin-left: 500px;
+  margin-left: 550px;
   position: fixed;
   top: 5%;
 }
 .golyoszamok{
   font-size: 100px;
-  margin-left: 500px;
+  margin-left: 550px;
   position: fixed;
   top: 20%;
   content:"#";
@@ -145,7 +145,7 @@ ol.custom:first-child {
   counter-reset: customlistcounter;
 }
 .golyok{
-  margin-left: 450px;
+  margin-left: 550px;
   position: fixed;
   top: 30%;
   display: flex;
@@ -159,7 +159,7 @@ ol.custom:first-child {
   content:"#";
 }
 .golyok2{
-  margin-left: 450px;
+  margin-left: 550px;
   position: fixed;
   top: 75%;
   display: flex;
@@ -168,7 +168,21 @@ ol.custom:first-child {
 .golyoteszt{
   position: fixed;
   top: 18%;
-  left: 33%;
+  left: 35%;
+  display: flex;
+  justify-content:center;
+}
+.multhetiszamok{
+  font-size: 50px;
+  margin-left: 550px;
+  position: fixed;
+  top: 60%;
+  content:"#";
+}
+.golyok2{
+  margin-left: 550px;
+  position: fixed;
+  top: 70%;
   display: flex;
   justify-content:center;
 }
