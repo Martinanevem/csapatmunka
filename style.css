@@ -145,9 +145,23 @@ ol.custom:first-child {
   counter-reset: customlistcounter;
 }
 .golyok{
-  margin-left: 450px;
+  margin-left: 500px;
   position: fixed;
   top: 30%;
+  display: flex;
+  justify-content:center;
+}
+.multhetiszamok{
+  font-size: 50px;
+  margin-left: 500px;
+  position: fixed;
+  top: 60%;
+  content:"#";
+}
+.golyok2{
+  margin-left: 500px;
+  position: fixed;
+  top: 75%;
   display: flex;
   justify-content:center;
 }
