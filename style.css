@@ -165,3 +165,10 @@ ol.custom:first-child {
   display: flex;
   justify-content:center;
 }
+.golyoteszt{
+  position: fixed;
+  top: 18%;
+  left: 33%;
+  display: flex;
+  justify-content:center;
+}
