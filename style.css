@@ -186,7 +186,7 @@ ol.custom:first-child {
   background-color: rgb(0, 150,94);
   border-radius: 50%;
   display: inline-block;
-  position: relative;
-  top: -355px; 
-  right: -80px;
+  position: fixed;
+  top: 100px; 
+  right: 1600px;
 }
