@@ -189,4 +189,12 @@ ol.custom:first-child {
   position: fixed;
   top: 80px; 
   right: 1600px;
+  z-index: -2;
+}
+.szoveg{
+  font-size: 70px;
+  position: absolute;
+  top: 155px;
+  text-shadow:3px 2px #4e4e4e;
+  left: 121px;
 }
