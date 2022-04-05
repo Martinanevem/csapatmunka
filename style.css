@@ -173,22 +173,16 @@ ol.custom:first-child {
   display: flex;
   justify-content:center;
 }
-.multhetiszamok{
-  font-size: 50px;
-  margin-left: 550px;
-  position: absolute;
-  top: 60%;
-  content:"#";
-}
+
 .dot{
   height: 242px;
   width: 246px;
   background-color: rgb(0, 150,94);
   border-radius: 50%;
   display: inline-block;
-  position: fixed;
+  position: absolute;
   top: 5em; 
-  right: 59.76em;
+  right: 5em;
   z-index: -2;
 }
 .szoveg{
