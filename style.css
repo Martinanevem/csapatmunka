@@ -118,6 +118,7 @@ img{
     margin-left: 10.5em;
     position: absolute;
     top: 4em;
+    font-weight: bold;
 }
 .leggyakoribbszamok{
   font-size: 70px;
@@ -192,4 +193,23 @@ ol.custom:first-child {
   top: 155px;
   text-shadow:3px 2px #4e4e4e;
   left: 121px;
+}
+.erdekesztori1{
+  font-size: 17px;
+  margin-left: 24.75em;
+  position: absolute;
+  top: 19em;
+}
+.szoveg2{
+  font-size: 50px;
+  margin-left: 10.5em;
+  position: absolute;
+  top: 9em;
+  font-weight: bold;
+}
+.erdekesztori2{
+  font-size: 17px;
+  margin-left: 24.75em;
+  position: absolute;
+  top: 34em;
 }
