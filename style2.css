@@ -128,7 +128,7 @@ img{
   font-weight: bold;
 }
 .golyoszamok{
-  font-size: 90px;
+  font-size: 8rem;
   margin-left: 450px;
   position: relative;
   top: 240px;
@@ -171,8 +171,8 @@ ol.custom:first-child {
 }
 .golyoteszt{
   position: absolute;
-  top: 13em;
-  left: 35em;
+  top: 15em;
+  left: 40em;
   display: flex;
   justify-content:center;
 }
@@ -194,4 +194,18 @@ ol.custom:first-child {
   top: 155px;
   text-shadow:3px 2px #4e4e4e;
   left: 121px;
+}
+.golyoteszt2{
+  position: absolute;
+  top: 24em;
+  left: 40em;
+  display: flex;
+  justify-content:center;
+}
+.golyoteszt3{
+  position: absolute;
+  top: 33em;
+  left: 40em;
+  display: flex;
+  justify-content:center;
 }
