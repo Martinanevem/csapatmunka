@@ -1,4 +1,4 @@
-  *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -117,7 +117,7 @@ img{
     font-size: 50px;
     margin-left: 10.5em;
     position: absolute;
-    top: 5em;
+    top: 4em;
     font-weight: bold;
 }
 .leggyakoribbszamok{
@@ -222,4 +222,11 @@ ol.custom:first-child {
   width: 100%;
   top:9em;
   right:28em;
+}
+.szovegecske{
+    font-size: 50px;
+    margin-left: 10.5em;
+    position: absolute;
+    top: 4em;
+    font-weight: bold;
 }
